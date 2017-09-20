@@ -1,2 +1,2 @@
-# cool-game
+# CS161-final-project
 keymash race
